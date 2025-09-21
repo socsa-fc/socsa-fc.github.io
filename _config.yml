@@ -23,7 +23,7 @@ navbar-links:
   About Us: "aboutus"
   Resources:
     - Upcoming Events: "events"
-    - Blogr: "Blog"
+    - Blog: "blog"
 
 ################
 # --- Logo --- #
