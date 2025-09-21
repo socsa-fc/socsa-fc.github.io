@@ -21,9 +21,8 @@ author: SOCSA-FC
 
 navbar-links:
   About Us: "aboutus"
-  Resources:
-    - Upcoming Events: "events"
-    - Blog: "blog"
+  Upcoming Events: "events"
+  Blog: "blog"
 
 ################
 # --- Logo --- #
