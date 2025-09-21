@@ -22,8 +22,8 @@ author: SOCSA-FC
 navbar-links:
   About Us: "aboutus"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Upcoming Events: "events"
+    - Blogroll: "blogroll"
 
 ################
 # --- Logo --- #
