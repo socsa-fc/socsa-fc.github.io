@@ -23,7 +23,7 @@ navbar-links:
   About Us: "aboutus"
   Resources:
     - Upcoming Events: "events"
-    - Blogroll: "blogroll"
+    - Blogr: "Blog"
 
 ################
 # --- Logo --- #
@@ -105,6 +105,9 @@ share-links-active:
 
 # Add the website title to the title of every page
 title-on-all-pages: true
+
+# Paginate path for blogs
+paginate_path: "/blog/page:num/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
