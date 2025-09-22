@@ -24,17 +24,19 @@ Call it a [Mamdani moment](https://www.youtube.com/watch?v=GYH_zerPE3M). We're a
 ## Option 2: The Drizzle
 tbh I have no idea if we'll be in drizzle szn by this time. But if you live close enough to The Beacon you can catch an interesting mid-week lineup that us Eastsiders might hesitate to make the trek out West for. And you probably also know this area better, but I wanted to shout out some local highlights from [Plate of Nations](https://www.plateofnations.com/restaurants/) around here. If you're unsure of your dinner options, eat at [Alem](https://alemrestaurant.com/), [Maa Kiin](https://share.google/dtL1BAB2WZteN5Hwt), or [Taco City Taqueria](https://www.tacocitysea.com/) and then head to the movies - sounds like a cozy start to the Big Dark if you ask me. 
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kUyyLPF7Qik?si=8_72OFIiOtWTxBi-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cr2zH0llOsg?si=tYmepM_EguwDGcGm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 {: .box-success} 
-*Week of October 13 2025*
-**10/13, 7:00 pm** [Documentary Shorts](https://www.brownpapertickets.com/event/6716778) (1.5 hrs)
-**10/14, 6:30 pm** [Yaa Ye'e](https://www.brownpapertickets.com/event/6717755) (1.5 hrs)
-**10/15, 6:00 pm** [Ibero-American Shorts](https://www.brownpapertickets.com/event/6718093) (2 hrs)
-**10/16, 7:00 pm** [Cafe Chariel](https://www.brownpapertickets.com/event/6715742) (2 hrs)
-**10/16, 8:45 pm** [Documentary Shorts](https://www.brownpapertickets.com/event/6718102) (1 hr)
-**10/17, 6:30 pm** [Moses](https://www.brownpapertickets.com/event/6718112) (2 hrs)
+*Week of October 13 2025*          
+**10/13, 7:00 pm** [Documentary Shorts](https://www.brownpapertickets.com/event/6716778) (1.5 hrs)          
+**10/14, 6:30 pm** [Yaa Ye'e](https://www.brownpapertickets.com/event/6717755) (1.5 hrs)          
+**10/15, 6:00 pm** [Ibero-American Shorts](https://www.brownpapertickets.com/event/6718093) (2 hrs)          
+*Pick one*: **10/16, 7:00 pm** [Cafe Chariel](https://www.brownpapertickets.com/event/6715742) (2 hrs) OR **10/16, 8:45 pm** [Documentary Shorts](https://www.brownpapertickets.com/event/6718102) (1 hr)          
+**10/17, 6:30 pm** [Moses](https://www.brownpapertickets.com/event/6718112) (2 hrs)          
 
 Did you end up going to SLFF 2025 and/or find this useful? [Let us know](mailto:socsafceastside@gmail.com)! And if you can, please advocate for a more balanced October across the Seattle film festival planning communities! I'm not quite sure why this one October weekend has SO MUCH going on but I'll be spending a couple of weeks away from any big screens after this - phew! Happy October(Movie)Fest all!
