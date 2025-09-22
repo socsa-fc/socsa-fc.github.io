@@ -47,6 +47,7 @@ If you'd rather attend VIFF over the Canadian Thanksgiving long weekend, here's 
 *Saturday, 11 Oct*      
 **11:15 am** [Hidden Tremors](https://viff.org/whats-on/viff25-hidden-tremors/)  (1.25 hrs)            
 *Pick one:* **1:00 pm** [My Father's Son](https://viff.org/whats-on/viff25-my-fathers-son/) (1.75 hrs) OR **1:30 pm** [Ma: Cry of Silence](https://viff.org/whats-on/viff25-ma-cry-of-silence/) (1.25 hrs)      
+Here's a free block for a walk or a pint, or another movie            
 **6:30 pm** [How to Build a library - 1.75 hrs](https://viff.org/whats-on/viff25-how-to-build-a-library/)      
 *Pick one:* **8:15 pm** [Bad Girl](https://viff.org/whats-on/viff25-bad-girl/) (2 hrs) OR **9:00 pm** [VIFF Short Forum 10](https://viff.org/whats-on/viff25-short-forum-10/) (2 hrs)     
 ***TOTAL COST*** ~85 CAD
