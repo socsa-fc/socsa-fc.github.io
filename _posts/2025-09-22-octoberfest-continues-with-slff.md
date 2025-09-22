@@ -1,6 +1,6 @@
 ---
 layout: post
-title: October(Movie)Fest Part 2: SLFF 2025
+title: October(Movie)Fest Part 2 - SLFF 2025
 subtitle: Once more unto the week!
 tags: [film festivals, SLFF, TFF]
 ---
