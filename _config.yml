@@ -95,7 +95,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
   reddit: false
 
