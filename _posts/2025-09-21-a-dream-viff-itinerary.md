@@ -2,7 +2,7 @@
 layout: post
 title: A dream itinerary for VIFF 2025
 subtitle: We can't go but maybe you can?
-tags: [film festivals][VIFF]
+tags: [film festivals, VIFF]
 ---
 
 Vancouver BC is only a 3 hour drive from Seattle - so it's no surprise that we love [VIFF](https://viff.org/festival/) as much as [SIFF](https://www.siff.net/festival). Unfortunately, VIFF falls on the same weekend at [Tasveer](https://tasveer.org/), and during a busy October. With the addition of ongoing border chaos, we're choosing to stay close to home this year. But maybe you live closer to Van City than us, or can drive up during the week? Here are some desi-oriented schedule ideas for VIFF 2025! 
