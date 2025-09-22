@@ -62,7 +62,7 @@ In the afternoon [Queer Horizons](https://tffm2025.eventive.org/schedule/68ab26c
 
 
 ## Option 3: Shorts and Sweets
-If you're more into shorts than features, go to TFF/SLFF on Sunday for back-to-back shorts programs. Maybe start your day with a Viet coffee from [Coffeholic House](https://coffeeholichouse.com/) and a pastry from [Columbia City Bakery](https://www.columbiacitybakery.com/) to get in the right headspace. I think these shorts will add a pinch of levity to close out what I'm calling October(Movie)Fest. For example, I already know Vidhya Iyer's *Giving Mom the Talk* will make me cringe HARD, and probably for the better?
+If you're more into shorts than features, go to TFF/SLFF on Sunday for back-to-back shorts programs. Maybe start your day with a Viet coffee from [Coffeholic House](https://coffeeholichouse.com/) and a pastry from [Columbia City Bakery](https://www.columbiacitybakery.com/) to get in the right headspace. I think these shorts will add a pinch of levity to close out festival weekend. For example, I already know Vidhya Iyer's *Giving Mom the Talk* will make me cringe HARD, and probably for the better?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e-sqUTMBxH8?si=cJziYyd5YiHdqkSi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
