@@ -28,10 +28,10 @@ This option involves taking a day off work and spending it at the movies - we th
 
 {: .box-success}
 **11:00 am** [CycleMahesh - 1 hr](https://viff.org/whats-on/viff25-cyclemahesh/)      
-Pick one:        
+- Pick one:        
   - **12:15 pm** [Seeds - 2 hrs](https://viff.org/whats-on/viff25-seeds/)      
   - **1:15 pm** [Your Touch Makes Others Invisible - 1 hr](https://viff.org/whats-on/viff25-your-touch-makes-others-invisible/)      
-Pick one:     
+- Pick one:     
   - **3:45 pm** [Human Resource - 2 hrs](https://viff.org/whats-on/viff25-human-resource/)       
   - **3:30 pm** [Clan of the Painted Lady - 1.75 hrs](https://viff.org/whats-on/viff25-clan-of-the-painted-lady/) - at VIFF Centre, 30 min walk/20 in bus ride from International Village    
 **6:00 pm** [My Father's Son - 1.75 hrs](https://viff.org/whats-on/viff25-my-fathers-son/)       
@@ -47,13 +47,13 @@ Pick one:
 If you'd rather attend VIFF over the Canadian Thanksgiving long weekend, here's a pared-down selection that walks the fine line between active engagement and film festival exhaustion. The [Hidden Tremors](https://viff.org/whats-on/viff25-hidden-tremors/) screening on Friday night (Oct 10) could be a proper feature if you wish - but in the interest of a safe drive home, we're suggesting the Saturday AM screening instead. As always, pick and choose your schedule as you wish!
 
 {: .box-success}
-*Saturday, 11 Oct*    
+*Saturday, 11 Oct*      
 **11:15 am** [Hidden Tremors - 1.25 hrs](https://viff.org/whats-on/viff25-hidden-tremors/)    
-Pick one:    
+- Pick one:    
   - **1:00 pm** [My Father's Son - 1.75 hrs](https://viff.org/whats-on/viff25-my-fathers-son/) 
   - **1:30 pm** [Ma: Cry of Silence - 1.25 hrs](https://viff.org/whats-on/viff25-ma-cry-of-silence/)    
 **6:30 pm** [How to Build a library - 1.75 hrs](https://viff.org/whats-on/viff25-how-to-build-a-library/)      
-Pick one:    
+- Pick one:    
   - **8:15 pm** [Bad Girl - 2 hrs](https://viff.org/whats-on/viff25-bad-girl/)     
   - **9:00 pm** [VIFF Short Forum 10](https://viff.org/whats-on/viff25-short-forum-10/)    
 ***TOTAL COST*** ~85 CAD
