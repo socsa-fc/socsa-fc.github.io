@@ -27,9 +27,10 @@ Another evening feature option is [*Bhoothaalam*, or Hidden Tremors](https://vif
 This option involves taking a day off work and spending it at the movies - we think that's time well spent. There are of course 10 days of great choices here, but the schedule for **Thursday, 9 October** looks quite promising specifically for South Asian and diaspora stories. The following agenda keeps you close to the International Village area for a jam-packed day you'll be thinking about for months afterward. 
 
 {: .box-success}
-**11:00 am** [CycleMahesh](https://viff.org/whats-on/viff25-cyclemahesh/) (1 hr)       
-Pick one: **12:15 pm** [Seeds](https://viff.org/whats-on/viff25-seeds/) (2 hrs) OR **1:15 pm** [Your Touch Makes Others Invisible](https://viff.org/whats-on/viff25-your-touch-makes-others-invisible/) (1 hr)     
-Pick one: **3:45 pm** [Human Resource](https://viff.org/whats-on/viff25-human-resource/) (2 hrs) OR **3:30 pm** [Clan of the Painted Lady](https://viff.org/whats-on/viff25-clan-of-the-painted-lady/) (1.75 hrs) - at VIFF Centre, 30 min walk/20 in bus ride from International Village      
+**11:00 am** [CycleMahesh](https://viff.org/whats-on/viff25-cyclemahesh/) (1 hr)             
+*Pick one:* **12:15 pm** [Seeds](https://viff.org/whats-on/viff25-seeds/) (2 hrs) OR **1:15 pm** [Your Touch Makes Others Invisible](https://viff.org/whats-on/viff25-your-touch-makes-others-invisible/) (1 hr)         
+*Pick one:* **3:45 pm** [Human Resource](https://viff.org/whats-on/viff25-human-resource/) (2 hrs) OR **3:30 pm** [Clan of the Painted Lady](https://viff.org/whats-on/viff25-clan-of-the-painted-lady/) (1.75 hrs) 
+Note: Clan of the Painted Lady is playing at [VIFF Centre](https://g.page/viff-centre?share), a 30 min walk/20 in bus ride from International Village      
 **6:00 pm** [My Father's Son](https://viff.org/whats-on/viff25-my-fathers-son/) (1.75 hrs)       
 **9:30 pm** [Ma: Cry of Silence](https://viff.org/whats-on/viff25-ma-cry-of-silence/) (1.25 hrs)      
 ***TOTAL COST*** ~105 CAD
@@ -44,10 +45,10 @@ If you'd rather attend VIFF over the Canadian Thanksgiving long weekend, here's 
 
 {: .box-success}
 *Saturday, 11 Oct*      
-**11:15 am** [Hidden Tremors](https://viff.org/whats-on/viff25-hidden-tremors/)  (1.25 hrs)
-Pick one: **1:00 pm** [My Father's Son](https://viff.org/whats-on/viff25-my-fathers-son/) (1.75 hrs) OR **1:30 pm** [Ma: Cry of Silence](https://viff.org/whats-on/viff25-ma-cry-of-silence/) (1.25 hrs)      
+**11:15 am** [Hidden Tremors](https://viff.org/whats-on/viff25-hidden-tremors/)  (1.25 hrs)            
+*Pick one:* **1:00 pm** [My Father's Son](https://viff.org/whats-on/viff25-my-fathers-son/) (1.75 hrs) OR **1:30 pm** [Ma: Cry of Silence](https://viff.org/whats-on/viff25-ma-cry-of-silence/) (1.25 hrs)      
 **6:30 pm** [How to Build a library - 1.75 hrs](https://viff.org/whats-on/viff25-how-to-build-a-library/)      
-Pick one: **8:15 pm** [Bad Girl](https://viff.org/whats-on/viff25-bad-girl/) (2 hrs) OR **9:00 pm** [VIFF Short Forum 10](https://viff.org/whats-on/viff25-short-forum-10/) (2 hrs)     
+*Pick one:* **8:15 pm** [Bad Girl](https://viff.org/whats-on/viff25-bad-girl/) (2 hrs) OR **9:00 pm** [VIFF Short Forum 10](https://viff.org/whats-on/viff25-short-forum-10/) (2 hrs)     
 ***TOTAL COST*** ~85 CAD
 
 {: .box-success}
