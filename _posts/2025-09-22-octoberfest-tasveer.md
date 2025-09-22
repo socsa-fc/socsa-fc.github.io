@@ -32,8 +32,12 @@ I'll be honest, this requires some commitment. Basically we're spending 8 hours 
 {: .box-note}
 *Saturday, October 11: Optional AM*               
 **11:00 am**: brunch at Geraldine's Counter           
-*Pick one*: **12:00 pm** [Echoes of Earth: The Mother, The Sons, and the Holy River](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88dff6) OR  **12:00 pm** [Pinch / Skin / Blister](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a02a)            
-*Pick one*: **2:30 pm**: [Resilience and Reinvention](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e006) OR [Life at Crossroads](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a026)           
+*Pick one*:          
+  **12:00 pm** [Echoes of Earth: The Mother, The Sons, and the Holy River](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88dff6)                
+  **12:00 pm** [Pinch / Skin / Blister](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a02a)                      
+*Pick one*:           
+  **2:30 pm**: [Resilience and Reinvention](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e006)             
+  **2:40 pm**: [Life at Crossroads](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a026)                    
 
 
 The afternoon session truly makes me wish I had a time turner. The two LGBTQIA screening blocks are the obvious highlight here - but don't sleep on the [Aging, Care, and Defiance](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a022). 
@@ -42,14 +46,18 @@ Director Shayar Gandhi's advertising background combined with the bright colors 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3a83LE7ccrc?si=DNDuHY5_RGX92G0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-In the afternoon [Queer Horizons](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00e) / [Hidden Desires](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00a) double session, I'm looking forward to Iniyavan Elumalai's [Pakka](https://www.imdb.com/title/tt32651287/) about four gay men figuring out friendship and life on the cricket pitch, as well as Shruti Parekh's [Zari](https://www.imdb.com/title/tt32311363/). The longer feature [We Are Faheem & Karun](https://www.imdb.com/title/tt34284832/) is being billed as [Kashmir's first queer story](https://www.youtube.com/watch?v=0mY6fnpp5mc), which I found quite surprising. [Trans Kashmir](https://www.youtube.com/watch?v=L_7gk0qTYho) was released in 2022, so I'd say we're overdue for some queer stories beyond geopolitical, cis-, and hetero-normative boundaries. Here's a [longer interview](https://www.youtube.com/watch?v=0mY6fnpp5mc) with writer/director/producer Onir (of *[My Brother... Nikhil](https://www.imdb.com/title/tt0419992/)* fame) I found quite interesting - maybe watch this *after* the movie so the themes make sense.
+In the afternoon [Queer Horizons](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00e) / [Hidden Desires](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00a) double session, I'm looking forward to Iniyavan Elumalai's *[Pakka](https://www.imdb.com/title/tt32651287/)* about four gay men figuring out friendship and life on the cricket pitch, as well as Shruti Parekh's *[Zari](https://www.imdb.com/title/tt32311363/)*. The longer feature [We Are Faheem & Karun](https://www.imdb.com/title/tt34284832/) is being billed as [Kashmir's first queer story](https://www.youtube.com/watch?v=0mY6fnpp5mc), which I found quite surprising. [Trans Kashmir](https://www.youtube.com/watch?v=L_7gk0qTYho) was released in 2022, so I'd say we're overdue for some queer stories beyond geopolitical, cis-, and hetero-normative boundaries. Here's a [longer interview](https://www.youtube.com/watch?v=0mY6fnpp5mc) with writer/director/producer Onir (of *[My Brother... Nikhil](https://www.imdb.com/title/tt0419992/)* fame) I found quite interesting - maybe watch this *after* the movie so the themes make sense.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/chfcJF2L7e0?si=i6-e-uxqBND7PIb5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {: .box-success}
-*Saturday, October 11: PM*
-*Pick one*: **4:15 pm** [Aging, Care, and Defiance](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a022) or **4:20 pm** [Hidden Desires](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00a)           
-*Pick one*: **6:30 pm** [Queer Horizons](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00e) or **6:40 pm** [Beneath The Surface](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a032)           
+*Saturday, October 11: PM*            
+*Pick one*:          
+  **4:15 pm** [Aging, Care, and Defiance](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a022)         
+  **4:20 pm** [Hidden Desires](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00a)           
+*Pick one*:         
+  **6:30 pm** [Queer Horizons](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00e)         
+  **6:40 pm** [Beneath The Surface](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a032)           
 **9:00** pm: dinner and discussion at Taco City Taqueria (optional)           
 
 
