@@ -18,6 +18,7 @@ We know AI is coming for all of our jobs. As I'm writing this the YouTube ad pla
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GxKmuCENXK4?si=olIcw_R5SFhLRybd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 {: .box-success}
 *Friday, October 10*           
 **5:00 pm**: Happy hour and apps at [Marination](https://marinationmobile.com/) or [Island Soul](https://www.islandsoulrestaurant.com/) (optional)              
@@ -32,12 +33,8 @@ I'll be honest, this requires some commitment. Basically we're spending 8 hours 
 {: .box-note}
 *Saturday, October 11: Optional AM*               
 **11:00 am**: brunch at Geraldine's Counter           
-*Pick one*:          
-  **12:00 pm** [Echoes of Earth: The Mother, The Sons, and the Holy River](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88dff6)                
-  **12:00 pm** [Pinch / Skin / Blister](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a02a)                      
-*Pick one*:           
-  **2:30 pm**: [Resilience and Reinvention](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e006)             
-  **2:40 pm**: [Life at Crossroads](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a026)                    
+*Pick one*: **12:00 pm** [Echoes of Earth: The Mother, The Sons, and the Holy River](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88dff6)  OR **12:00 pm** [Pinch / Skin / Blister](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a02a)                      
+*Pick one*: **2:30 pm**: [Resilience and Reinvention](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e006) OR **2:40 pm**: [Life at Crossroads](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a026)                    
 
 
 The afternoon session truly makes me wish I had a time turner. The two LGBTQIA screening blocks are the obvious highlight here - but don't sleep on the [Aging, Care, and Defiance](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a022). 
@@ -52,12 +49,8 @@ In the afternoon [Queer Horizons](https://tffm2025.eventive.org/schedule/68ab26c
 
 {: .box-success}
 *Saturday, October 11: PM*            
-*Pick one*:          
-  **4:15 pm** [Aging, Care, and Defiance](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a022)         
-  **4:20 pm** [Hidden Desires](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00a)           
-*Pick one*:         
-  **6:30 pm** [Queer Horizons](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00e)         
-  **6:40 pm** [Beneath The Surface](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a032)           
+*Pick one*: **4:15 pm** [Aging, Care, and Defiance](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a022)  OR **4:20 pm** [Hidden Desires](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00a)           
+*Pick one*: **6:30 pm** [Queer Horizons](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00e) OR **6:40 pm** [Beneath The Surface](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a032)           
 **9:00** pm: dinner and discussion at Taco City Taqueria (optional)           
 
 
@@ -69,9 +62,6 @@ If you're more into shorts than features, go to TFF/SLFF on Sunday for back-to-b
 {: .box-success} 
 *Sunday, October 12 2025*             
 **11:00 am**: [TFF: Under the Skin](https://tffm2025.eventive.org/schedule/68b46f0f8af0d2f32d1a3012) (1.5 hrs)              
-*Pick one*:          
-  **2:00 pm**: [TFF: Wishful Thinking](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a03e) (1.5 hrs)             
-  **2:00 pm** [TFF: Lines We Cross](https://tffm2025.eventive.org/schedule/68b4700155b157333589ae42) (2 hrs)               
-  **1:30 pm** [SLFF: Animated Shorts](https://www.brownpapertickets.com/event/6715735) (45 min)         
+*Pick one*: **2:00 pm**: [TFF: Wishful Thinking](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a03e) (1.5 hrs) OR **2:00 pm** [TFF: Lines We Cross](https://tffm2025.eventive.org/schedule/68b4700155b157333589ae42) (2 hrs)  OR **1:30 pm** [SLFF: Animated Shorts](https://www.brownpapertickets.com/event/6715735) (45 min)         
 
 Did you end up going to TFF 2025 and/or find this useful? [Let us know](mailto:socsafceastside@gmail.com)! And if you can, please advocate for a more balanced October across the Seattle film festival planning communities! I’m not quite sure why this one October weekend has SO MUCH going on but I’ll be spending a couple of weeks away from any big screens after this - phew! Happy October(Movie)Fest all!
