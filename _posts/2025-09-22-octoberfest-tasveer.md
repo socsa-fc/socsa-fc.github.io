@@ -8,13 +8,19 @@ The [2025 Tasveer Film Festival](https://tasveer.org/) schedule was released las
 
 :money_with_wings: & :ticket: : TFF tickets are 17 USD Regular / 14 USD Student for each session. You are responsible for purchasing your own ticket, either through the screening pages or at the Box Office.
 
-:bus: :train: & : The Tasveer Film Center is a short walk from the Columbia City 1 Line station, and close to the 7/9/50/106 bus stops. We will meet at the front of the building before we head out for each activity. 
+:bus: & :train: : The Tasveer Film Center is a short walk from the Columbia City 1 Line station, and close to the 7/9/50/106 bus stops. We will meet at the front of the building before we head out for each activity. 
 
 :fork_and_knife: & :cocktail: : On Friday we will stop by a Happy Hour at [Marination](https://marinationmobile.com/) or [Island Soul](https://www.islandsoulrestaurant.com/). On Saturday we'll have a relaxed brunch at [Geraldine's Counter](https://www.geraldinescounter.com/) before the program gets underway but unfortunately lunch will likely be short and hurried given the schedule. If you want a break from the screen I recommend stopping by [Spice Waala](https://www.spicewaala.com/) or [Billiard Hoang](https://share.google/qrjDgcWrefjlVwKpi) before the Saturday PM session. The latter has pool tables for more of a social vibe than a tiny storefront. On both days we'll tentatively go to [Taco City Taqueria](https://tacocitysea.com/) since it's one of the few restaurants open past 9, actual plan TBD day-of.
 
+:calendar: : We're proposing three blocks that best represent TFF 2025's lineup:
 
-## Option 1: Let's talk about tech baby
-We know AI is coming for all of our jobs. As I'm writing this the YouTube ad playing in the other tab is trying to sell (or hire me for?) yet another data annotation service. But I've wanted to see more media about AI's parallel impacts on labor, environment, and even the way we think / solve problems / approach nature. I think Aranya Sahay's *[Humans in the Loop](https://www.imdb.com/title/tt33581992/)* is exactly the rumination I've been looking for. And it's quite fitting in a region that's [rapidly building data centers](https://www.npr.org/2025/08/17/nx-s1-5501579/washington-hydropower-data-center-boom-sustainability-climate-change) without adequate attention to the [climate costs](https://www.propublica.org/series/power-hungry). Is it possible to leave no digital trace, or potentially leave a positive one? Maybe we'll find out.
+* [Option 1: Feature Friday](#option1)
+* [Option 2: Saturday Cinemarathon](#option2)
+* [Option 3: Short and Sweet Sunday](#option3)
+
+
+## Option 1: Feature Friday <a>#option1</a>      
+Let's talk about tech baby! We know AI is coming for all of our jobs. As I'm writing this the YouTube ad playing in the other tab is trying to sell (or hire me for?) yet another data annotation service. But I've wanted to see more media about AI's parallel impacts on labor, environment, and even the way we think / solve problems / approach nature. I think Aranya Sahay's *[Humans in the Loop](https://www.imdb.com/title/tt33581992/)* is exactly the rumination I've been looking for. And it's quite fitting in a region that's [rapidly building data centers](https://www.npr.org/2025/08/17/nx-s1-5501579/washington-hydropower-data-center-boom-sustainability-climate-change) without adequate attention to the [climate costs](https://www.propublica.org/series/power-hungry). Is it possible to leave no digital trace, or potentially leave a positive one? Maybe we'll find out.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GxKmuCENXK4?si=olIcw_R5SFhLRybd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -26,7 +32,7 @@ We know AI is coming for all of our jobs. As I'm writing this the YouTube ad pla
 **9:00 pm**: dinner and discussion at Taco City Taqueria (optional)           
 
 
-## Option 2: All Day Movie Mix-and-Match 
+## Option 2: Saturday Cinemarathon <a>#option2</a>        
 I'll be honest, this requires some commitment. Basically we're spending 8 hours at TFF - but you are free to join and leave whenever you'd like! We might leave for a bit too if it gets a bit much. Today's lineup is a little about a lot - [the environment](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88dff6), [fear](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a02a), [grit and survival](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e006), [institutional violence](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a026), [caregiving](https://tffm2025.eventive.org/schedule/68aafe760f680073aa15a022), and [queerness](https://tffm2025.eventive.org/schedule/68ab26c735aaa78d6a88e00a). The Beacon Theater is also ~10 min walk from the Tasveer Film Center and the Seattle Latino Film Festival (SLFF) is happening there - see [our post about SLFF](https://socsa-fc.github.io/2025-09-22-octoberfest-continues-with-slff/) for ideas. 
 
 
@@ -54,7 +60,7 @@ In the afternoon [Queer Horizons](https://tffm2025.eventive.org/schedule/68ab26c
 **9:00** pm: dinner and discussion at Taco City Taqueria (optional)           
 
 
-## Option 3: Shorts and Sweets
+## Option 3: Short and Sweet Sunday <a>#option3</a>
 If you're more into shorts than features, go to TFF/SLFF on Sunday for back-to-back shorts programs. Maybe start your day with a Viet coffee from [Coffeholic House](https://coffeeholichouse.com/) and a pastry from [Columbia City Bakery](https://www.columbiacitybakery.com/) to get in the right headspace. I think these shorts will add a pinch of levity to close out festival weekend. For example, I already know Vidhya Iyer's *Giving Mom the Talk* will make me cringe HARD, and probably for the better?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e-sqUTMBxH8?si=cJziYyd5YiHdqkSi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
