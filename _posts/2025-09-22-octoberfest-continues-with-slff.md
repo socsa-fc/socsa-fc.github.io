@@ -13,6 +13,8 @@ If you looked at the [Seattle Latino Film Festival](https://slff.org/) program a
 
 Call it a [Mamdani moment](https://www.youtube.com/watch?v=GYH_zerPE3M). We're already planning to spend most of Saturday, 11 October at the [Tasveer Film Festival](https://tasveer.org)- and [you're invited, of course](https://www.eventbrite.com/e/field-trip-tasveer-film-festival-2025-tickets-1712283218199?aff=oddtdtcreator). BUT, if you'd like a change of pace/language/cultures, SLFF's primary venue at [The Beacon](https://thebeacon.film/) is a convenient 10 min walk up Rainier Ave! Theaters and film fora in the Sound have been [in a state](https://www.realchangenews.org/news/2025/03/07/recent-seattle-cinema-closures-force-owners-go-back-drawing-board) since Covid, and the joint uphill climb of inflation / layoffs / high rents / dwindling arts funding isn't helping anyone. The least we can do as an audience is [help The Beacon thrive](https://web.archive.org/web/20250324200031/https://www.seattletimes.com/entertainment/movies/seattle-movie-theaters-arent-dying-theyre-changing/) while supporting Latinx filmmakers who've made the stressful trek to our side of the woods. I'd suggest picking a Spanish-language feature based on what you're curious about on the day - [an autistic childhood in a loving family](https://www.brownpapertickets.com/event/6714462), [homesickness in Seattle](https://www.brownpapertickets.com/event/6714735) (sounds familiar), [enduring lesbian love](https://www.brownpapertickets.com/event/6714746), or [perseverence and resilience](https://www.brownpapertickets.com/event/6714744). I don't know much about any of these directors but clearly there's no wrong choice here.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JQVNrHCPHlk?si=GoTnH0y7ZUjZuS00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 {: .box-success} 
 *Saturday, October 11 2025*              
 **1:00 pm**: [Codigo Marcos / The Apricot](https://www.brownpapertickets.com/event/6714462) (1.5 hrs)            
@@ -22,14 +24,13 @@ Call it a [Mamdani moment](https://www.youtube.com/watch?v=GYH_zerPE3M). We're a
 
 
 ## Option 2: The Drizzle
-tbh I have no idea if we'll be in drizzle szn by this time. But if you live close enough to The Beacon you can catch an interesting mid-week lineup that us Eastsiders might hesitate to make the trek out West for. And you probably also know this area better, but I wanted to shout out some local highlights from [Plate of Nations](https://www.plateofnations.com/restaurants/) around here. If you're unsure of your dinner options, eat at [Alem](https://alemrestaurant.com/), [Maa Kiin](https://share.google/dtL1BAB2WZteN5Hwt), or [Taco City Taqueria](https://www.tacocitysea.com/) and then head to the movies - sounds like a cozy start to the Big Dark if you ask me. 
+tbh I have no idea if we'll be in drizzle szn by this time. But if you live close enough to The Beacon you can catch an interesting mid-week lineup that us Eastsiders might hesitate to make the trek out West for. And if you're looking for food recs, I wanted to shout out my local highlights from [Plate of Nations](https://www.plateofnations.com/restaurants/): [Alem](https://alemrestaurant.com/), [Maa Kiin](https://share.google/dtL1BAB2WZteN5Hwt), and [Taco City Taqueria](https://www.tacocitysea.com/). Get dinner in the area and then go to the movies - sounds like a cozy start to the Big Dark if you ask me. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MQFnp6mc70g?si=d68mCzCnNUNwRD_7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kUyyLPF7Qik?si=8_72OFIiOtWTxBi-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cr2zH0llOsg?si=tYmepM_EguwDGcGm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 {: .box-success} 
 *Week of October 13 2025*          
