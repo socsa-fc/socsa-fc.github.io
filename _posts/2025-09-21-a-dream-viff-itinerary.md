@@ -9,7 +9,7 @@ Vancouver BC is only a 3 hour drive from Seattle - so it's no surprise that we l
 
 * [A long lunch or a date night feature](#option1)
 * [Playing hooky on a weekday](#option2)
-* [Weekend Viewing Warrior](option3) 
+* [Weekend Viewing Warrior](#option3) 
 
 :money_with_wings: & :ticket: : Heads up, individual film tickets are [21 CAD Regular / 16 CAD Student + taxes](https://viff.org/ticket-info/#festival). You can also buy a six-pack of tickets for [120 CAD Regular / 95 CAD Student + taxes](https://viff.org/ticket-info/#festival).
 
