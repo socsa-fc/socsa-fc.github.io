@@ -24,10 +24,10 @@ If you can only see one show during VIFF this year, run - don't walk! - to see [
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wq9iRMzpJQM?si=96mYpxauJJoE90Po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Another evening feature option is [*Bhoothaalam*, or Hidden Tremors](https://viff.org/whats-on/viff25-hidden-tremors/), VIFF 2025's only Malayalam entry. Kerala's climate crisis is the backdrop for this story about climate refugees and their grief. I imagine architect and director Sreekanth Pangapattu would be attuned to the cracks forming in our homes and psyches as we slowly become inured to ecological devastation. He is quoted in [The New Indian Express](https://www.newindianexpress.com/kerala/2025/Sep/11/tremors-of-a-forewarning-2) as saying, “We are destroying natural resources. Nothing is predictable anymore. Nature can change in an instant, and the reason is us. If the film makes people think about being more careful and more nature-friendly, I will feel I have succeeded”.  
+Another evening feature option is [*Bhoothaalam* (Hidden Tremors)](https://viff.org/whats-on/viff25-hidden-tremors/), VIFF 2025's only Malayalam entry. Kerala's climate crisis is the backdrop for this story about climate refugees and their grief. I imagine architect and director Sreekanth Pangapattu would be attuned to the cracks forming in our homes and psyches as we slowly become inured to ecological devastation. He is quoted in [The New Indian Express](https://www.newindianexpress.com/kerala/2025/Sep/11/tremors-of-a-forewarning-2) as saying, “We are destroying natural resources. Nothing is predictable anymore. Nature can change in an instant, and the reason is us. If the film makes people think about being more careful and more nature-friendly, I will feel I have succeeded”.  
 
 {: .box-success} 
-[Hidden Tremors](https://viff.org/whats-on/viff25-hidden-tremors/) (1.25 hrs) is screening on **Friday, 10 October at 8:45 pm** and on **Saturday, 10 October at 11:15 am** 
+[*Bhoothaalam* (Hidden Tremors)](https://viff.org/whats-on/viff25-hidden-tremors/) (1.25 hrs) is screening on **Friday, 10 October at 8:45 pm** and on **Saturday, 10 October at 11:15 am** 
 
 
 ### Option 2: Playing hooky on a weekday<a id='option2'></a>
